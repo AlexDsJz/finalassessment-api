@@ -1,0 +1,27 @@
+{
+  "api": {
+    "include": {
+      "*": "*"
+    }
+  },
+  "extend": {
+    "models": [],
+    "route": [
+      "process"
+    ],
+    "routes": [
+      "process"
+    ],
+    "schema_types": [],
+    "serializers": []
+  },
+  "graphql": {
+    "include": {
+      "*": "*"
+    }
+  },
+  "last_build_version": "0.5.5",
+  "platform": "django",
+  "project_description": "Backend of assessment for the minimum sum of a triangle",
+  "project_name": "Backend Final Assessment"
+}
